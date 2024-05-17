@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meselesolomon&label=Profile%20views&color=0e75b6&style=flat" alt="meselesolomon" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Frontt End web development**<br><br>- 🌱 I’m currently learning **React Native**<br><br>- 👯 I’m looking to collaborate on **open projects**<br><br>- 📫 How to reach me **meselesolomon17@gmail.com**<br><br>- ⚡ **I am funny**
+- 🔭 I’m currently working on **Front End web development**<br><br>- 🌱 I’m currently learning **React Native**<br><br>- 👯 I’m looking to collaborate on **open projects**<br><br>- 📫 How to reach me **meselesolomon17@gmail.com**<br><br>- ⚡ **I am funny**
 
 
 # 💻 Tech Stack:
